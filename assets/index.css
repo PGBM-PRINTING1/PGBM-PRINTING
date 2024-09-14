@@ -1,3 +1,29 @@
 body {
   background-color: #003DB4;
 }
+
+nav {
+    background-color: #6C615F;
+    padding: 10px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav a {
+    color: #87ABFF;
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 3px;
+}
+
+nav a:hover {
+    background-color: white;
+}
