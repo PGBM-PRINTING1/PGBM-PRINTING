@@ -9,7 +9,7 @@ nav {
 
 nav ul {
     list-style: none;
-    display: flex;
+    display: inline-block;
 }
 
 nav li {
