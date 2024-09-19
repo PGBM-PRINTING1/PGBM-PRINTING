@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  background-color: #6C615F;
+  background-color: #F9F7F3;
   padding: 10px;
   display: flex; /* Set the navigation bar to be a flex container */
   justify-content: space-between; /* Distribute items evenly within the container */
