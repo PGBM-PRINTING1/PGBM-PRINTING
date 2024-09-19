@@ -4,7 +4,7 @@ body {
 
 nav {
   background-color: #F9F7F3;
-  padding: 10px;
+  padding: 3px;
   display: flex; /* Set the navigation bar to be a flex container */
   justify-content: space-between; /* Distribute items evenly within the container */
   border-radius: 25px;
